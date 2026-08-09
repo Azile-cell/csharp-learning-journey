@@ -56,7 +56,7 @@ Exercises demonstrating:
 - .NET
 - Visual Studio
 - Windows Forms
-- GitHub
+- Git & GitHub (Basic)
 
 ## Purpose
 
